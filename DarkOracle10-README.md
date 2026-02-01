@@ -36,6 +36,17 @@ me = Developer()
 me.say_hi()
 ```
 
+<div align="center">
+
+### 🎯 Quick Highlights
+
+![](https://img.shields.io/badge/🎓_Student-Computer_Engineering-blue?style=for-the-badge)
+![](https://img.shields.io/badge/💼_Developer-Junior_Full--Stack-green?style=for-the-badge)
+![](https://img.shields.io/badge/🌍_Location-Iran-red?style=for-the-badge)
+![](https://img.shields.io/badge/💰_Payment-Crypto_Friendly-orange?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -53,13 +64,16 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### **Specializations**
 - 🤖 **AI/ML**: GPT Integration, Audio Transcription (Whisper), NLP
@@ -67,6 +81,8 @@ me.say_hi()
 - 🌐 **Web Development**: Responsive Design, PWA, REST APIs
 - 🎙️ **Audio/Video**: Transcription, Processing, Format Conversion
 - 🔐 **Cybersecurity**: Ethical Hacking Basics, Security Best Practices
+- 🖥️ **Desktop Apps**: GUI Development with PyQt/Tkinter
+- 🤖 **Telegram Bots**: Bot Development, API Integration, Automation
 
 ---
 
@@ -156,6 +172,25 @@ me.say_hi()
 
 ---
 
+### 🔍 [AI Keyword Finder Bot](https://github.com/DarkOracle10/-AIkeywordFinderBot)
+**Intelligent Telegram Bot & Desktop GUI for Keyword Extraction**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+- **Dual Interface**: Full-featured Telegram bot and standalone desktop GUI application
+- **Smart Keyword Extraction**: Advanced NLP algorithms for accurate keyword identification
+- **Multi-Format Support**: Process text, documents, and web content
+- **User-Friendly**: Intuitive PyQt-based desktop interface with modern design
+- **Telegram Integration**: Interactive bot with inline keyboards and real-time processing
+- **Cross-Platform**: Works on Windows, Linux, and macOS
+
+**🔧 Tech**: Python, python-telegram-bot, PyQt5, NLP Libraries, OpenAI API
+
+---
+
 ## 🎯 What I'm Currently Working On
 
 - 🏋️ Recovering from ACL surgery (Oct 2025) while building strength
@@ -176,6 +211,8 @@ I'm available for **remote freelance projects** with cryptocurrency payment opti
 - ✅ **Web Development**: Responsive websites, PWAs, landing pages
 - ✅ **Data Automation**: CSV/Excel processing, web scraping, ETL pipelines
 - ✅ **API Development**: RESTful APIs, Flask backends, third-party integrations
+- ✅ **Telegram Bots**: Custom bot development, API integration, automation workflows
+- ✅ **Desktop Applications**: Cross-platform GUI apps with PyQt/Tkinter
 
 ### **Payment Options:**
 - 💎 **Crypto-Friendly**: USDT, USDC, ETH via Trust Wallet
