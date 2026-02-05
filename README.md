@@ -49,6 +49,12 @@ me.say_hi()
 
 ---
 
+### 🚧 Currently Working On
+![](https://img.shields.io/badge/🔥_Active-Persian_Audio_Transcriber-orange?style=for-the-badge)
+![](https://img.shields.io/badge/⚡_Building-AI_Keyword_Bot-blue?style=for-the-badge)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -93,6 +99,8 @@ me.say_hi()
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkOracle10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOracle10&layout=compact&langs_count=8&theme=tokyonight"/>
 
+<!-- Note: Stats may take a moment to load. If not visible, check network. -->
+
 </div>
 
 <div align="center">
@@ -123,7 +131,7 @@ me.say_hi()
 
 ---
 
-### 🤖 [AI Content Generator Pro](https://github.com/DarkOracle10/AI-ContentGen-Pro)
+### 🤖 [AI Content Generator Pro](https://github.com/DarkOracle10/AI-Content-Generator-application)
 **Enterprise-Grade Content Generation Platform**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -140,7 +148,7 @@ me.say_hi()
 
 ---
 
-### ⚽ [Football Training Tracker](https://github.com/DarkOracle10/football-tracker)
+### ⚽ [Football Training Tracker](https://github.com/DarkOracle10/Responsive-Landing-Page--Football-Tracker-)
 **Progressive Web App for Training Management**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -157,7 +165,7 @@ me.say_hi()
 
 ---
 
-### 📊 [CSV Cleaner & Report Generator](https://github.com/DarkOracle10/csv-cleaner)
+### 📊 [CSV Cleaner & Report Generator](https://github.com/DarkOracle10/CSV-Cleaner---Report-Generator)
 **Automated Data Cleaning Utility**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -228,6 +236,8 @@ I'm available for **remote freelance projects** with cryptocurrency payment opti
 
 ## 📈 Coding Activity
 
+<!-- Setup: Install WakaTime extension + Configure GitHub Action -->
+<!-- See: https://github.com/marketplace/actions/waka-readme -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
